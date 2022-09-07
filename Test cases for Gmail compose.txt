@@ -1,0 +1,9 @@
+-----> checkout wheather On clicking Compose mail takes you to a page where you can enter the text.
+
+-----> Check wheather it has a To ,Cc, Bcc to enter email address.
+
+-----> Check wheather To, Cc, Bcc accepts valid email address,if it does how many mail address can be entered.
+
+-----> Checkout if you can delete/edit ,copy, paste & format the text content.
+
+-----> Can sendmail or cancel mail and so on.

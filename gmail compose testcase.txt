@@ -1,0 +1,24 @@
+1.enter the URL Http://Gmail.com check whether it shows  
+ur gmail page or not.
+
+2.Check whether the cursor is available in the User name
+field upon Enter the URL www.gmail.com in the Address bar.
+
+3.Enter with valid username and pwd.
+
+4.Enter with invalid usenames and pwd.
+
+5.Check whether the link "Can't access your account?" is
+working properly or not.
+
+6.check 'stay signed in' chekbox.
+
+7.check there is a button available for registration form.
+
+8.check login page all hyper link working properly or not.
+
+9.after displaying home page,enter username and password 
+check whether it is showing the un readen mails.
+
+10.check the fuctionality like buttons, chekboxes, link &
+drop down list.
